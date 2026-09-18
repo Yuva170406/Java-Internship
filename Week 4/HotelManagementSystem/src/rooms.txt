@@ -1,0 +1,4 @@
+4,Single,500.0,true
+3,Double,800.0,false
+1,Deluxe,1000.0,true
+2,Suite,2000.0,true
