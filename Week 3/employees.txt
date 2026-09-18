@@ -1,0 +1,2 @@
+101,Yaazhini,HR,50000.0
+102,Kayal,Sales,30000.0

@@ -1,0 +1,5 @@
+java : 3
+powerful : 1
+is : 3
+easy : 2
+programming : 1
